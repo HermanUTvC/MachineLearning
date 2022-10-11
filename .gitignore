@@ -1,0 +1,11 @@
+
+datasets/lifesat/gdp_per_capita.csv
+datasets/lifesat/lifesat.csv
+datasets/lifesat/lifesat_full.csv
+datasets/lifesat/oecd_bli.csv
+images/fundamentals/best_fit_model_plot.png
+images/fundamentals/money_happy_scatterplot.png
+images/fundamentals/overfitting_model_plot.png
+images/fundamentals/representative_training_data_scatterplot.png
+images/fundamentals/ridge_model_plot.png
+images/fundamentals/tweaking_model_params_plot.png
