@@ -26,3 +26,5 @@ images/end_to_end_project/income_vs_house_value_scatterplot.png
 images/end_to_end_project/long_tail_plot.png
 images/end_to_end_project/scatter_matrix_plot.png
 my_california_housing_model.pkl
+01_the_machine_learning_landscape.ipynb
+02_end_to_end_machine_learning_project.ipynb
